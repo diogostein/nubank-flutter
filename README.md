@@ -1,4 +1,4 @@
-# nubank
+# Nubank UI
 
 A new Flutter application.
 
